@@ -137,3 +137,36 @@ This project establishes a **deployment-ready system** providing actionable insi
 - **Part 2 (Advanced Deep Learning)**: hammadansari7
 
 *“Environmental Impact | Health Alert System | Smart City Integration”*
+
+## Pakistani Air Quality Dataset Overview
+<img width="1594" height="1140" alt="3cab3af3-f4c8-4029-8186-801889b3b8a5" src="https://github.com/user-attachments/assets/ae9f6e50-66e3-46e7-8835-c33c1aea31f9" />
+## Temporal Analysis
+<img width="1780" height="1380" alt="11d359a0-2b2c-41ef-a72e-8de6d0e9ef7f" src="https://github.com/user-attachments/assets/f102fb19-ee13-4e40-992d-fc7f117463a9" />
+- Time Series
+
+## Temporal Patterns in Air Quality
+<img width="1483" height="1110" alt="96c13d2c-a3f0-47e3-ae91-2bc27d64aee1" src="https://github.com/user-attachments/assets/db0099df-2621-4e8d-a23d-8fcecc05a22b" />
+
+## Weather-Pollution Relationships
+
+<img width="1483" height="1313" alt="18fe7e8b-8247-4a5c-994e-dc54187a0311" src="https://github.com/user-attachments/assets/cdbca4ae-4f34-4491-a4fc-62ddd87d3325" />
+## Distribution Analysis of Air Quality Metrics
+<img width="1582" height="1313" alt="bce0c0c1-9e3a-4747-a2ff-76a69e9202ef" src="https://github.com/user-attachments/assets/36f1662a-f727-4b76-a3b8-64bb8a0f5be8" />
+
+## XGBoost Model Performance An
+<img width="1494" height="1136" alt="a420c6ab-bb33-4aa6-a2d9-4a95305688c8" src="https://github.com/user-attachments/assets/838c3bed-8dbc-4db9-83ba-1f19e9773081" />
+alysis
+## View: PM2.5 Forecasting
+<img width="668" height="678" alt="ee2be294-da71-4e9a-b35e-dd81c85113c8" src="https://github.com/user-attachments/assets/25a40163-c159-4a68-9269-9d511568a09d" />
+Window
+## Bar Chart: Dataset Split Sizes
+
+<img width="513" height="523" alt="1bd7ebe2-d628-41bf-abb6-25fe3005b5f2" src="https://github.com/user-attachments/assets/7a5087ff-4bb9-43a2-a5a4-5d00741985a5" />
+## PM2.5 Forecasts (Train Set)
+<img width="769" height="780" alt="f3a59f23-5865-4e33-aaff-4c5aa69113c2" src="https://github.com/user-attachments/assets/d5ba3eac-b7f2-476a-b7b0-ad2e5eff71f5" />
+
+## 🔺 3D MAE Comparison Across Forecast Horizons
+<img width="510" height="504" alt="ed288269-75e0-48be-9071-d0e8111cad8f" src="https://github.com/user-attachments/assets/e4537de7-7e2b-4e0b-b25d-ba7a0655c2c3" />
+## Attention Surface — All Heads
+<img width="588" height="584" alt="be2280ca-a354-466a-b90f-06d1c27926b3" src="https://github.com/user-attachments/assets/66c1718b-5d5d-4a09-bb7f-1b9a17b4c206" />
+
